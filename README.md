@@ -1,11 +1,12 @@
 # How-to-inverse-chart-axis-in-Blazor-chart
 
-This KB article explains how to inverse the chart axis of Blazor chart component.
+This KB article explains how to inverse the chart axis of Blazor Chart Component.
 
-**Inverse X axis in blazor chart**
+**Inverse X axis in Blazor chart**
 
-[Blazor Charts](https://www.syncfusion.com/blazor-components/blazor-charts) provides the support to inverse the chart axis. By setting the [IsInversed](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.ChartCommonAxis.html#Syncfusion_Blazor_Charts_ChartCommonAxis_IsInversed) property to true, you can inverse the axis.
+[Blazor Charts](https://www.syncfusion.com/blazor-components/blazor-charts) provides support for inversing the chart axis. By setting the [IsInversed](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.ChartCommonAxis.html#Syncfusion_Blazor_Charts_ChartCommonAxis_IsInversed) property to true, you can invert the X axis.
 
+The following code example demonstrates how to inverse the X axis:
 
 **C#**
 
